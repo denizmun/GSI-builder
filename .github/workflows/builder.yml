@@ -6,6 +6,7 @@ on:
     
 env:
   ROM_LINK: https://dl.google.com/developers/android/tm/images/gsi/aosp_arm64-exp-TP1A.220624.014-8819323-996da050.zip
+  ROM_TYPE: Pixel
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: A.7z
